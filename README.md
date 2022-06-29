@@ -1,5 +1,7 @@
 ### Olá visitante, eu sou o Bernardo Dornelles 👋
 
+  ##
+
 - 🙋‍♂️ Bernardo Dornelles Lazzari - 24 anos
 - 🌱 Estudando Análise e Desenvolvimento de Sistemas/ Ulbra - Torres
 - 🔭 Em busca do primeiro estágio!!
